@@ -6,5 +6,5 @@
 
 🚀 Former developer for *La Revue Galactique* (2019-2021), a journalistic revue focused on space technologies and exploration, where I contributed to projects merging cutting-edge tech and journalism.
 
-🎉 Founder of Fiestaaa, a mobile and web app designed to make managing festive moments easier.
+🎉 Founder of [fiestaaa.app](https://fiestaaa.app), a mobile and web app designed to make managing festive moments easier.
 
